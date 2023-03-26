@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savitar02&label=Profile%20views&color=0e75b6&style=flat" alt="savitar02" /> </p>
 
-- 🔭 I’m currently working on **MicroFrontends**
+- 🕸 Visit my website [here](https://av1ral.dev)
+
+- 🔭 I’m currently working on **OneReach.ai**
 
 - 🌱 I’m currently learning **Solidity, Web3**
 
