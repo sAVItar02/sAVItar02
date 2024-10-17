@@ -1,8 +1,8 @@
-<img alt="Banner" src="https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif"/>
+<img alt="Banner" src="[https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif](https://raw.githubusercontent.com/sAVItar02/iCodeThis/refs/heads/main/readme/header.gif)"/>
 <h1 align="center">Hi 👋, I'm Aviral</h1>
 <h3 align="center">I'm a Web Developer!</h3>
 
-<img alt="Image" width="400" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"/>
+<img alt="Image" width="400" align="right" src="https://raw.githubusercontent.com/sAVItar02/iCodeThis/refs/heads/main/readme/coder.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savitar02&label=Profile%20views&color=0e75b6&style=flat" alt="savitar02" /> </p>
 
