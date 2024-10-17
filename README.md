@@ -28,3 +28,5 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savitar02&show_icons=true&locale=en&layout=compact" alt="savitar02" /></p>
 
+###### Credits: [Header Gif](https://stardust-specks.tumblr.com), [Side Gif](https://metinseven.nl/en/).
+
