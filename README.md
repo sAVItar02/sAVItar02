@@ -1,4 +1,4 @@
-<img alt="Banner" src="[https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif](https://raw.githubusercontent.com/sAVItar02/iCodeThis/refs/heads/main/readme/header.gif)"/>
+<img alt="Banner" src="https://raw.githubusercontent.com/sAVItar02/iCodeThis/refs/heads/main/readme/header.gif"/>
 <h1 align="center">Hi 👋, I'm Aviral</h1>
 <h3 align="center">I'm a Web Developer!</h3>
 
