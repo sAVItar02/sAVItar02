@@ -8,19 +8,19 @@
 
 - 🕸 Visit my website [here](https://av1ral.dev)
 
-- 🔭 I’m currently working on **OneReach.ai**
+- 🔭 I’m currently working on **Fullstack and Web3**
 
 - 🌱 I’m currently learning **Solidity, Web3**
 
-- 💬 Ask me about **JS, React, CSS**
+- 💬 Ask me about **React, JS**
 
 - 📫 How to reach me **blr.aviral@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/10F4z3GeF8h1Jh1eHkQmMvvVpSisNMKRf/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/16OrghCN_efV1czGBYGoBVSdjiJbzOU4Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aviral-s-79955a119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral-s-79955a119" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aviralsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral-s-79955a119" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
