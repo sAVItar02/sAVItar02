@@ -1,6 +1,6 @@
 <img alt="Banner" src="https://raw.githubusercontent.com/sAVItar02/iCodeThis/refs/heads/main/readme/header.gif"/>
 <h1 align="center">Hi 👋, I'm Aviral</h1>
-<h3 align="center">I'm a Web Developer!</h3>
+<h3 align="center">I'm a Web Developer and a MS CS Student @ UC Davis!</h3>
 
 <img alt="Image" width="400" align="right" src="https://raw.githubusercontent.com/sAVItar02/iCodeThis/refs/heads/main/readme/coder.webp"/>
 
@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **React, JS**
 
-- 📫 How to reach me **blr.aviral@gmail.com**
+- 📫 How to reach me **aviralsc1@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/16OrghCN_efV1czGBYGoBVSdjiJbzOU4Z/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1YHcybNlsomrcjBHCbVahwriGrTPkqxas/preview)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
