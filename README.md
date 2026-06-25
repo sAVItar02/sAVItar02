@@ -1,16 +1,16 @@
 <img alt="Banner" src="https://raw.githubusercontent.com/sAVItar02/iCodeThis/refs/heads/main/readme/header.gif"/>
-<h1 align="center">Hi 👋, I'm Aviral</h1>
-<h3 align="center">I'm a Web Developer and a MS CS Student @ UC Davis!</h3>
+<h1 align="center">Hi 👋, I'm Aviral </h1>
+<h3 align="center">I'm currently a summer intern at  <a href="https://www.esri.com/en-us/home">ESRI</a> and MSCS student @ UC Davis!</h3>
 
 <img alt="Image" width="400" align="right" src="https://raw.githubusercontent.com/sAVItar02/iCodeThis/refs/heads/main/readme/coder.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savitar02&label=Profile%20views&color=0e75b6&style=flat" alt="savitar02" /> </p>
 
-- 🕸 Visit my website [here](https://av1ral.dev)
+- 🕸 Visit my website [here](https://aviralportfolio.netlify.app)
 
 - 🔭 I’m currently working on **Fullstack and Web3**
 
-- 🌱 I’m currently learning **Solidity, Web3**
+- 🌱 I’m currently learning **Lit**
 
 - 💬 Ask me about **React, JS**
 
